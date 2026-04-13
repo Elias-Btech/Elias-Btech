@@ -1,4 +1,4 @@
-# # Hi, I'm Elias! 👋 ✨
+## Hi, I'm Elias! 👋 ✨
 
 I am a passionate **Software Engineering & Computer Science student** 🎓 dedicated to building functional, scalable, and user-centric applications 💻. I enjoy solving complex problems through code and am constantly expanding my technical toolkit 🛠️.
 
