@@ -29,7 +29,7 @@ I am a passionate **Software Engineering & Computer Science student** 🎓 dedic
 
 ### 🌐 Connect with Me
 * 💼 **LinkedIn:** [Elias Araya](https://www.linkedin.com/in/elias-araya-cs) 🔗
-* 📧 **Email:** [eliasaraya932@gmail.com](mailto:eliasaraya932@gmail.com) ✉️
+* 📧 **Email:** [contact me by email](mailto:eliasaraya932@gmail.com) ✉️
 
 ---
 > *"Turning logic into solutions, one commit at a time."* 🚀🔥
